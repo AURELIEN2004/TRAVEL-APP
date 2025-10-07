@@ -13,7 +13,7 @@
 
 .booking-section label{
     color: var(--textClr);
-    font-weight: 60;
+    font-weight: 600;
 }
 
 .react-datepicker-wrapper{
